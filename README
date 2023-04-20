@@ -1,0 +1,12 @@
+Name: Ricardo Avila
+ID: 830323421
+
+Structure of Program:
+File organization: rectangle.cpp
+Functional organization: Main() takes input of string of x, y, length and width of rectangle 1 and rectangle 2. Then puts x and y into point class and puts point into rectangle class object.
+
+Status: Incomplete, could not figure out how to do operator overload. Was unsure if needed to use module for % or do whatever needed and not use modulo.
+
+Hardware & platform I used: Intel core i7 with 16GB RAM MacOS
+
+Compile: extract the archive and then from shell run "make". This will create executable hw2 and then run ./hw3
